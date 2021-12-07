@@ -2,9 +2,9 @@
 layout: default
 ---
 
-&nbsp;
+# &nbsp;
 
-### Welcome to my website! 
+<h3 style="color:#cdcdcd;">Welcome to my website!</h3>
 
 Please have a look at some of my projects below. My GitHub profile and resume are linked on the left. 
 
