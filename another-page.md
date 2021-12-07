@@ -90,6 +90,10 @@ layout: default
 }
 </style>
 
+# &nbsp;
+
+## Click resume to enlarge
+
 <img id="myImg" src="/assets/img/Adam_Hamden_Resume_12_5_21_00001.svg" style="width:100%;max-width:100%">
 
 <!-- The Modal -->
