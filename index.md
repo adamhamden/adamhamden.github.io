@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-Welcome to my website! Please have a look at some of my projects below. My GitHub profile and resume are linked on the right. 
+Welcome to my website! Please have a look at some of my projects below. My GitHub profile and resume are linked on the left. 
 
 ## Undergraduate Research
 
