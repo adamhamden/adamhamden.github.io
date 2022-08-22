@@ -92,7 +92,7 @@ layout: default
 
 # &nbsp;
 
-<h3 style="color:#cdcdcd;">Click on resume to enlarge</h3>
+<h3 style="color:#274156;">Click on resume to enlarge</h3>
 
 <img id="myImg" src="/assets/img/Adam_Hamden_Resume_12_5_21_00001.svg" style="width:100%;max-width:100%">
 
