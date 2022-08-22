@@ -10,6 +10,13 @@ Please have a look at some of my projects below. My GitHub profile and resume ar
 
 ## Undergraduate Research
 
+### Multimodal Humor
+
+> This project focused on exploring the way in which humans express humor. Through an analysis of text, audio, and video, we employed a modified Transformer architecture to encode the features. We were able to define a binary humor prediction task on the test data and achieved state-of-the-art results for our task and dataset. We showed that gesture, as extracted from video, is a salient feature informing the expression of humor in an individual.  ([final paper](https://adamhamden.com/assets/docs/Hamden_Adam_Multimodal_Humor.pdf))
+
+### Orthogonal Constraints in Structural Probes
+
+> This project focused on reproducing and expanding on recent work in orthogonal constraints in structural probes ([original paper](https://aclanthology.org/2021.acl-long.36.pdf)). The primary research focuses on using structural probes for BERT embedding interpretability. We were able to reproduce the results, particularly showing that orthogonal constraints are less prone to memorization of training data when compared to unconstrained probes. We also extended this research with ablations studies exploring different distance metrics, loss functions, and evaluation metrics. ([final paper](https://adamhamden.com/assets/docs/Hamden_Adam_Orthogonal_Transformer_Probing.pdf))
 
 ### Empathy and Disclosure Modeling
 
@@ -34,14 +41,6 @@ Please have a look at some of my projects below. My GitHub profile and resume ar
 ### Body Projector Interaction System
 
 > This project focused on developing a hands-free projector interaction system. I developed a system that utilizes structured lighting cameras to estimate skeletal pose, allowing for programs to use hand movements as inputs to a projected surface. This allows for interactions that do not require any special wearables. Source code can be found [here](https://github.com/adamhamden/BodyTrackingProjectorInteraction).
-
-
-&nbsp;
-
-
-## Orthogonal Constraints in Structural Probes
-
-> This project focused on reproducing and expanding on recent work in orthogonal constraints in structural probes ([original paper](https://aclanthology.org/2021.acl-long.36.pdf)). The primary research focuses on using structural probes for BERT embedding interpretability. We were able to reproduce the results, particularly showing that orthogonal constraints are less prone to memorization of training data when compared to unconstrained probes. We also extended this research with ablations studies exploring different distance metrics, loss functions, and evaluation metrics. Our results will be released soon.
 
 
 &nbsp;
