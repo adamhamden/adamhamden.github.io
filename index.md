@@ -4,7 +4,7 @@ layout: default
 
 # &nbsp;
 
-<h3 style="color:#cdcdcd;">Welcome to my website!</h3>
+<h3 style="color:#274156;">Welcome to my website!</h3>
 
 Please have a look at some of my projects below. My GitHub profile and resume are linked on the left. 
 
